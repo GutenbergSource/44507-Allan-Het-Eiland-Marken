@@ -1,0 +1,703 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY florin CDATA "&#x0192;" -- Florin currency symbol (Netherlands) -->
+
+]>
+<TEI.2 lang=nl-1900>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Het Eiland Marken en zijne bewoners</title>
+<author key="Allan, Francis" ref="https://viaf.org/viaf/169274248">Francis Allan (1826&ndash;1908)</author>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20130407012000allan</idno>
+<idno type=PGDPProjectId>projectID51816f36aa5b4</idno>
+<idno type=epub-id>urn:uuid:c49d09d0-45b4-49a2-b6ef-93c3e1dd14ca</idno>
+<idno type=PGnum>44507</idno>
+<date>2013-12-25</date>
+<availability lang=nl>
+<p>&availability.nl;
+
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">Een beschrijving van het (voormalige) eiland Marken en haar bewoners uit 1854.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Francis Allan</author>
+<title>Het Eiland Marken en zijne bewoners</title>
+<date>1854</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc lang=nl>
+<p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.
+
+</encodingDesc>
+<profileDesc>
+    <langUsage lang=nl>
+        <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+        <language id=nl>Nederlands</language>
+        <language id=en>Engels</language>
+        <language id=de>Duits</language>
+        <language id=fr>Frans</language>
+        <language id=la>Latijn</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Marken Island (The Netherlands)</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2013-12-19 Begonnen.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)"> <figDesc>Nieuw ontworpen voorkant.</figDesc> </figure>
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)"> <figDesc>Oorspronkelijke titelpagina.</figDesc> </figure>
+
+
+
+<pb>
+<titlePage>
+<docTitle><titlePart>HET
+<lb>EILAND MARKEN
+<lb>EN
+<lb>ZIJNE BEWONERS,</titlePart></docTitle>
+
+
+<byline>GESCHETST
+<lb>DOOR
+<lb><docAuthor>F. ALLAN.</docAuthor>
+</byline>
+
+
+<docImprint>Met 2 Kaartjes.
+
+<!-- [Illustration] -->
+
+<lb>AMSTERDAM,
+
+<lb>WEIJTINGH &amp; VAN DER HAART.
+
+<lb><docDate>1854.</docDate>
+</docImprint>
+</titlePage>
+
+
+
+
+<pb>
+<div1 id=preface type=Preface>
+<head>VOORWOORD.</head>
+
+
+<p><hi>Het moge waar zijn, dat het</hi> <hi rend=ex>Eiland Marken</hi>, <hi>bij velen in ons Vaderland bekend zij, zoo wel door de natuurlijke gesteldheid van dit stukje gronds, als door de eigenaardige, of liever, verouderde gewoonten van zijne bewoners;&mdash;niet minder waar is het, dat dit Eiland, bij nog meerdere onzer Landgenooten, zoo niet geheel onbekend, minstens niet goed, niet naar waarheid, bekend zal zijn.</hi>&mdash;
+
+<p><hi>Hiervan overtuigd, besloot ik dit Werkje in het licht te zenden, met het doel, Marken en zijne Bewoners naar waarheid te schetsen, en langs dien weg, het Publiek in de mogelijkheid te stellen, zich zonder groote opoffering, met dit Eiland en met deze Eilanders, meer van nabij bekend te maken.</hi>&mdash;
+
+<p>&bdquo;<hi>Vraagt men, of er welligt zooveel merkwaardigs van Marken zij te zeggen, dat de Uitgave van deze Schets, als van belang kan worden geacht?</hi>&rdquo;&mdash;
+
+<p><hi>Zoo merken wij aan, dat niet het merkwaardige, noch ook het eigenaardige van hetzelve, ons tot de zamenstelling der volgende bladen, hebben aangespoord:&mdash;maar dat wij, naar <pb>aanleiding, van hetgene wij, voor eenigen tijd omtrent dit onderwerp geboekt vonden, en hetgeen ons bleek, deels bezijden de waarheid&mdash;deels overdreven te zijn, genoopt werden, ten opzigte van Marken en de Markers, der waarheid openlijk hulde te doen, en datgene in het regte licht te plaatsen, waarop door anderen eene valsche schaduw geworpen is;&mdash;terwijl deze uitgave tevens voldoen zal aan eenen, door velen, uitgedrukten wensch.</hi>&mdash;
+
+<p><hi>Wij voegen hierbij niets meer, dan de wensch, dat dit boekske in veler handen moge komen, en niet onvoldaan ter zijde worde gelegd!</hi>
+
+
+    <p rend="class(signed)"><hi rend=ex>Eiland Marken</hi>,
+
+    <p rend="class(signed)">den 1 Feb. 1854.             <hi rend=sc>Allan.</hi>
+
+
+
+
+
+<pb n=I>
+</front>
+<body>
+<div1 id=intro type=Introduction>
+<head>INLEIDING.</head>
+
+
+<p>Ofschoon er, voor zoo veel ik heb kunnen nagaan, van de vroegere geschiedenis van het <hi rend=sc>EILAND MARKEN</hi>, zeer weinig geboekt staat, zoo moet toch de natuurlijke gesteldheid van hetzelve, in vroegeren tijd, veel verschild hebben van den toestand, waarin het zich thans bevindt.&mdash;Immers vinden wij, in eene beschrijving van <hi rend=ex>Waterland</hi>, het volgende opgeteekend:
+
+
+    <q rend=block><p>&bdquo;Het <hi rend=sc>EILAND MARKEN</hi>, waarschijnlijk in het laatste gedeelte der 13<hi rend=sup>de</hi> eeuw van &apos;t Vaste Land gescheiden, is eene zeer oude Volkplanting van Vroome Hollanderen. Oudtijds behoorde hetzelve aan het Klooster <hi rend=ex>Mariëngaarde</hi>, in Friesland; doch door Vrouwe <hi rend=ex>Margaretha</hi>, uit hoofde, der moord aan Grave Willem gepleegd, met meer andere goederen der Friezen, in <hi>Holland</hi> en Zeeland gelegen, geconfisqueerd en verkocht.&rdquo;&mdash;Van dezen verkoop, is nog een afschrift op dit Eiland voorhanden.&mdash;</q>
+
+
+<p>Dit een en ander, komt overeen, met hetgene wij daaromtrent vermeld vinden, in eene overoude Beschrijving van Waterland, waarin o. a. gezegd wordt:
+
+
+    <pb n=II><q rend=block><p>&bdquo;Dat &apos;t <hi>Eijlandt</hi> en <hi>Dorp</hi> van <hi rend=ex>Marcken</hi> in oude tijden toegekomen heeft, het Convent ofte Klooster te <hi>Mariëngaarde</hi> in Vriesland, hetwelcke was in Ferweradeel de tweede Grietenije in Ooster-goo, daar men elf Dorpen in vand, namelijk dit Mariëngard, daar benevens Fosmert, en Genauwert. Het heeft <hi>Winsinius</hi>, Vriessche Historiënschrijver ons onderrecht, dat de helft van het Eijlandt en Dorp, door Godsdienstige Hollanderen aan &apos;t gemeld Klooster van <hi>Mariëngaarde</hi> wechgeschonken was, en dat den Abt en de Munnicken, de andere helfte kogten van de <hi>Persijnen</hi>, Heeren van <hi>Waterland</hi>, soo dat se het geheel verkregen: maar wederom ontnomen wierd&apos;, door Margareta, Keijserinne van Romen, Gravinne van Holland, Zeeland, enz., tot wrake, van haren Heer en Broeder Grave Willem die in Vriesland verslagen was;&mdash;</q>
+
+
+<p><corr>&bdquo;</corr>De woorden van de oude Hollandsche Cronijck, die van Gouthoeven gevolgt word, luijd aldus:
+
+
+    <q rend=block><p>&bdquo;Deze vrome Margriete, Keijserinne van Romen, Gravinne van Holland, Zeelandt, Vrieslandt, en oock Henegouwen, heeft doen Confisqueren en toestaan, alle de Goeden, Landen, en Renten der Vriezen, geestelijcke en wereldlijcke, die in Holland en Zeeland gelegen waren, omdat sij in Vrieslandt haren Broeder en gevechten Heere, hadden verslagen, deselve Goederen verkopende vele en diverse personen: onder anderen Goederen worden oock verkocht, dat Land en Dorp van Marcken, dewelcke op die tijd behoorde het Convent <pb n=III>en Klooster van Mariëngaarde, der Ordre van de Premonstreijten, gelegen in Oost-Vrieslandt, dat welcke de Abt en de Broeders in voorleden tijden, ghekocht van Heer Claas Persijn, Heere van Waterland (<hi>Gouth.</hi> folio 381.)
+
+    <p>&bdquo;Dit moet van de eerste Claas Persijn wesen, die Ridder was, en in &apos;t jaar van 1250, ghestorven is: want de andere stierf Anno 1375, en nu had&apos; et de Munnicken al langh beseten gehadt.&mdash;
+
+    <p>&bdquo;Het is buiten twijfel, of dit Marcken is vóór &apos;t inbreken der Zuijderzee eene wellustige (aangename) plaatse, met Hoven versien, en aan &apos;t Vaste Land gheweest, waar veel Monnicken gehouden hebben: het Land daar omtrent (sij-lieden in eijgendom) ten meestendeele beseten hebben, hetwelcke veroorsaackt heeft, de namen van Munnicke-Meer, Munnickendam, Munnicke-broek, en de Munnick, die de Munnickedammers noch in hare wapen voeren en houden. &apos;t Kon wel zijn, dat den Dijck daar de Stad opleijd, ofte die den Dam is, was gheweest in de <hi>Hoefslagh</hi> van de Munnicken van Marcken, en daarom, de Munnickendam.&rdquo;</q>
+
+
+<p>Aangaande de wraak, welke door Margareta (?) Keijserinne van Romen, Gravinne van Holland en Zeeland, enz. over den dood haars Broeders, ten aanzien van Marken, zoude genomen zijn, lezen wij, in de Geschiedenis der Grafelijke Regering, het volgende:
+
+
+    <q rend=block><p>&bdquo;Dat <hi rend=sc>Willem IV.</hi>, in den jare 1334, op negentienjarigen ouderdom, als Graaf gehuldigd werd over Holland <pb n=IV>en Zeeland;&mdash;dat Hij afstamde uit het Grafelijke Huis van Henegouwen;&mdash;dat deze Graaf, ten jare 1345, eenen veldtogt ondernam tegen de muitende Friezen;&mdash;en dat hij, den 26<hi rend=sup>sten</hi> of 27<hi rend=sup>sten</hi> September van laatstgemeld jaar, in eenen veldslag, tegen deze, sneuvelde.&mdash;
+
+    <p>&bdquo;Zijn lijk werd eerst 10 dagen daarna, gevonden, en in een Klooster, niet ver van <hi>Bolsward</hi>, begraven.&mdash;
+
+    <p>&bdquo;Zijne jeugdige Gemalin, eene dochter van <hi rend=sc>Jan III.</hi>, Hertog van Brabant, was over dezen dood, zoo zeer verstoord op de Friezen, dat zij het Klooster der Friesche monnicken op Marken, liet in den brand steken, en al de monnicken in zee (<hi>in den Kuil van Marken</hi>) werpen.&mdash;
+
+    <p>&bdquo;Daar <hi rend=sc>Willem IV.</hi>, geene kinderen naliet, werd zijne zuster, Margaretha, die met Keizer Lodewijk gehuwd was, algemeen, als Gravin, gehuldigd.&rdquo;&mdash;</q>
+
+
+<p>Hieruit blijkt dus, dat niet alleen Margaretha, maar ook, dat Willems Gemalin, zich over den dood des Graven, heeft gewroken.&mdash;
+
+
+
+
+<pb id=pb1 n=1>
+<div1 id=vroeger>
+<head>VROEGERE GESTELDHEID VAN HET EILAND MARKEN.</head>
+
+
+<p>Het scheen ons, bij de Beschrijving van het <hi rend=ex>Eiland Marken</hi>, in zijnen tegenwoordigen toestand, niet ongepast te zijn, onzen lezers, vooraf eenigzins bekend te maken, met den toestand waarin hetzelve zich, op het einde der voorgaande eeuw bevond. Tot dat einde, bieden wij hen de volgende Schets aan, die wij, door vriendschappelijke bezorging van een der geachtste ingezetenen dezer Gemeente, ontvingen, en die ten jare 1793 opgemaakt is door den Heer <hi rend=sc>C. DE HAAS</hi>, destijds Onderwijzer op dit Eiland.&mdash;
+
+
+    <q rend=block><p>&bdquo;Het <hi rend=ex>Eiland Marken</hi> ligt in deszelfs oppervlakte, omtrent gemeen met dagelijks vol-zee, en wordt bij Stormvloeden overstroomd, aangemerkt de geringe hoogte der omringkade, (hierna beschreven) waarom de Huijsen en Werven alle op Terpen of Heuvels zijn aangelegd; komende nochthans het zeewater, bij Extra Ordinaire <corr sic=Storvloeden>Stormvloeden</corr>, zoo als die van 1775, 76 en 91, tot eene aanmerkelijke hoogte in de Huijsen, hetgeen de bewoners dikwerf noodzaakt, hunne woningen, ja geheele buurten te verlaten.&mdash;
+
+    <pb id=pb2 n=2><p>&bdquo;Voorts is dit Eiland doorsneden met Slooten en Vaarten, alsmede voorzien met 7 houten sluisjes ter uitwatering.&mdash;
+
+    <p>&bdquo;<hi>De zeewering</hi> dezes Eilands, bestaat uit een aarden dijk of kade, ter hoogte van ruim 4 à 5 voeten boven valzee, en Kruijnsbreedte van 3/7 op eene 2 en 3 voets vallinge.&mdash;Deze omringdijk is op vele plaatsen, aan deszelfs buitenzijde, met Steenglooijingen voorzien, als van tijd tot tijd meerder noodzakelijk wordende, uit hoofde der afslijtende rietlanden en buitenoevers.&mdash;Men vindt ook nog op eenige plaatsen, ten dien einde, paalwerken, doch dezelve worden, uit hoofde der worm en kostbaarheid nu verlaten.
+
+    <p>&bdquo;De kosten hiertoe worden uit &apos;s Eilands kas en uit de daartoe geaccordeerde Subsidiën gevonden. (Exept de Vuurtoren, Loots en Oever, door het Collegie der Pilotage.)
+
+    <p>&bdquo;<hi>De producten</hi> der Landerijen, op dit Eiland, bestaat in Hooij-, Riet- en Weijlanden. De Hooijteelt is het voornaamste product, doch levert geene groote voordeelen op&mdash;men vindt hier eenig hoornvee, schapen, doch geen paarden.
+
+    <p>&bdquo;<hi>De Hanteeringe</hi> dezer Eilanders is voornamelijk:
+
+    <p>&bdquo;1<hi rend=sup>e</hi>. <hi>Door middel van</hi> <hi rend=ex>Waterschepen</hi>: &apos;s Lands Schepen van Oorlog, die der O. I. Comp. en der Commercie, over het Pampus te sleepen of te trekken, ook de twee eerstgemelde van en na de stad Hoorn te boegseeren.
+
+    <p>&bdquo;2<hi rend=sup>e</hi>. <hi>Met</hi> <hi rend=ex>Botterschepen</hi>: wordt des Zomers om den Aal gevischt in de Zuiderzee, en &apos;s Winters ter vragt of op negotie met de Bucking of Panharing, Ook dienen dezelve, om de Ondiepste Commercieschepen over &apos;t Pampus te sleepen.
+
+    <pb id=pb3 n=3><p>&bdquo;3<hi rend=sup>e</hi>. Gaat het grootste gedeelte der manschappen met de <hi>Buijsschepen ter haringvangst</hi> en des Winters en de Lente tot met pr<hi rend=sup>mo</hi> Meij, geneeren zich dezelve met de Bucking- en Panharingvisscherij, op de Zuiderzee, met hunne schuiten.&rdquo;&mdash;</q>
+
+
+<p>(Aldus opgemaakt in September 1793 door <hi rend=sc>C. DE HAAS</hi>.)
+
+<milestone unit=tb>
+
+<p>Bij deze &bdquo;<hi>Beschrijvinge des Eilands</hi>&rdquo; behoort tevens eene Lijst van de Buurten, Huijsen, Huijsgezinnen, Bewoners, enz. waarvan wij op bladz. 4 eene copij geven.&mdash;
+
+
+<pb id=pb4 n=4>
+
+
+<p>LIJST der Buurten, Huijsen, Huijsgezinnen, Bewoners, Waterschepen, enz.
+
+<!--
+                                                         Gemeene Buisliên.
+                                              Stierliên van Buijsen.     |
+                                              Vissersschuijten.    |     |
+                                            Botterschepen.    |    |     |
+                                        Waterschepen.    |    |    |     |
+                                       Kinderen.    |    |    |    |     |
+                                   Ouders.     |    |    |    |    |     |
+                           Bewoners.     |     |    |    |    |    |     |
+                Huijsgezinnen.     |     |     |    |    |    |    |     |
+                Huijsen.     |     |     |     |    |    |    |    |     |
+    Namen der          |     |     |     |     |    |    |    |    |     |
+Buurten of Werven.     |     |     |     |     |    |    |    |    |     |     Aanmerkingen.
+
+ 1. Munnickewerv of    44    91   326   148   178   10    3   19    17    65   Op de Kerbuurt staan:
+    Kerbuurt                                                                   Kerk, Pastorie, Raad- en
+ 2. Nieuwe Buurten     16    35   129    58    71    1    5   12     9    30   Schoolhuijs en
+ 3. Altena              1     2     6     3     3   ==   ==   ==   ==      1   Vroedvrouwswoning.
+ 4. De Kets             6     9    27    12    15   ==    1    3     4     5
+ 5. Witte Werv          3     9    30    17    13   ==    3    1   ==      2   Elke Botter word bevaren
+ 6. Remmerswerv         6    13    57    21    36    1    3   ==     1     8   door 2 man en 1 jongen.
+ 7. Groote Werv         6    16    59    29    30    3    2    3     3     9   Elke Haringschuijt door
+ 8. Roose Werv          6    12    35    19    16   ==    1    3     2     8   3 man.
+ 9. De Heuvel           4     8    27    14    13   ==   ==    2     2    11   Elk Waterschip door 2
+10. Moeniswerv         12    21    61    38    29    3   ==    3   ==     14   man.
+11. Noorderwerv         2   ==    ==    ==    ==    ==   ==   ==   ==     ==   Elke Buijs door 11 man
+                                                                               en 2 jongens.
+Aldus te zamen op     ===   ===   ===   ===   ===   ==   ==   ==   ==    ===
+de 11 bovenstaande    106   216   753   353   404   18   18   46   38    153
+Buurten of Terpen
+
+-->
+
+<table id=t1>
+<row role=label>
+<cell cols=2>Namen der buurten of werven.
+<cell>Huijsen.
+<cell>Huijsgezinnen.
+<cell>Bewoners.
+<cell>Ouders.
+<cell>Kinderen.
+<cell>Waterschepen.
+<cell>Botterschepen.
+<cell>Vissersschuijten.
+<cell>Stierliên van buijsen.
+<cell>Gemeene buisliên.
+<cell><hi>Aanmerkingen.</hi>
+
+<row><cell> 1. <cell>Munnickewerv of Kerbuurt   <cell>  44<cell>  91<cell>326<cell>148<cell>178<cell> 10<cell>  3<cell> 19<cell> 17<cell> 65
+    <cell rows=4>Op de Kerbuurt staan: Kerk, Pastorie, Raad- en Schoolhuijs en Vroedvrouwswoning.
+<row><cell> 2. <cell>Nieuwe Buurten             <cell>  16<cell>  35<cell>129<cell> 58<cell> 71<cell>  1<cell>  5<cell> 12<cell>  9<cell> 30
+<row><cell> 3. <cell>Altena                     <cell>   1<cell>   2<cell>  6<cell>  3<cell>  3<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell>  1
+<row><cell> 4. <cell>De Kets                    <cell>   6<cell>   9<cell> 27<cell> 12<cell> 15<cell> &mdash;<cell>  1<cell>  3<cell>  4<cell>  5
+<row><cell> 5. <cell>Witte Werv                 <cell>   3<cell>   9<cell> 30<cell> 17<cell> 13<cell> &mdash;<cell>  3<cell>  1<cell> &mdash;<cell>  2
+    <cell rows=3>Elke Botter word bevaren door 2 man en 1 jongen.
+<row><cell> 6. <cell>Remmerswerv                <cell>   6<cell>  13<cell> 57<cell> 21<cell> 36<cell>  1<cell>  3<cell> &mdash;<cell>  1<cell>  8
+<row><cell> 7. <cell>Groote Werv                <cell>   6<cell>  16<cell> 59<cell> 29<cell> 30<cell>  3<cell>  2<cell>  3<cell>  3<cell>  9
+<row><cell> 8. <cell>Roose Werv                 <cell>   6<cell>  12<cell> 35<cell> 19<cell> 16<cell> &mdash;<cell>  1<cell>  3<cell>  2<cell>  8
+    <cell>Elke Haringschuijt door 3 man.
+<row><cell> 9. <cell>De Heuvel                  <cell>   4<cell>   8<cell> 27<cell> 14<cell> 13<cell> &mdash;<cell> &mdash;<cell>  2<cell>  2<cell> 11
+    <cell>Elk Waterschip door 2 man.
+<row><cell>10. <cell>Moeniswerv                 <cell>  12<cell>  21<cell> 61<cell> 38<cell> 29<cell>  3<cell> &mdash;<cell>  3<cell> &mdash;<cell> 14
+    <cell rows=2>Elke Buijs door 11 man en 2 jongens.
+<row><cell>11. <cell>Noorderwerv                <cell>   2<cell>&mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;<cell> &mdash;
+
+<row><cell cols=2>Aldus te zamen op de 11 bovenstaande Buurten of Terpen
+                                                <cell> 106<cell> 216<cell> 753<cell> 353<cell> 404<cell>  18<cell>  18<cell>  46<cell>  38<cell> 153<cell>
+</table>
+
+<p>(Aldus opgemaakt in September 1793 door <hi rend=sc>C. DE HAAS</hi>.)
+
+
+<pb id=pb5 n=5><p>Nevens deze Schets van de Vroegere Gesteldheid van dit Eiland, voegen wij de volgende aanmerkingen:
+
+<p>Betrekkelijk den juisten tijd waarop Marken van het Vaste Land gescheiden is geworden, verkeert men in het onzekere, en de opgaven dienaangaande, loopen zeer uit één.&mdash;Wel zegt men, dat zulks op het einde der 13<hi rend=sup>de</hi> eeuw moet plaats gehad hebben;&mdash;doch wij meenen dat die gebeurtenis, op een later tijdstip heeft plaats gehad, en wel, omstreeks de jaren 1675&ndash;1676, als wanneer ons Vaderland, en vooral het Noordelijk gedeelte van onzen geboortegrond, door hevige stormen en zware watervloeden, zeer geteisterd werd, terwijl in het eerstgenoemde jaar (1675) het zeewater tot zulk eene ontzettende hoogte steeg, dat geheel Amsterdam onder water stond, en de zeedijk bij Hoorn als ook de IJdijk doorbraken.
+
+<p>Vóór omstreeks eene eeuw, was de afstand tusschen de<note n=1>De hier bedoelde uiterste punten zijn thans bekend als: de Nes en &apos;t Kruis.</note> Zuidelijkste punt van Marken en den vasten wal, slechts eenige voeten wijd, en liep men over een&apos; plank van den eenen oever op den anderen. Na dien tijd, is de afkabbeling, aan de zijde van Marken, dermate toegenomen, dat de afstand, tusschen evengenoemde landpunten, thans eene uitgestrektheid heeft van minstens één half uur.
+
+<p>Volgens de &bdquo;Lyst der Buurten, Huijsen, enz.&rdquo;, welke wij op bladz. 12 gegeven hebben, bestonden er ten jare 1793 nog elf bebouwde Terpen of Heuvels; n.l.:
+
+<p>De Kerkbuurt, Nieuwe Buurten, Altena, Kets, Witte Werf, Remmerswerf, Groote Werf, Rozenwerf, Heuvel, Moeniswerf en Noorderwerf. Behalve deze, kende men vóór dien tijd nog eenige andere Buurten, zoo als:
+
+
+<table id=t2>
+<row><cell>De Kraaijenwerf,      <cell>De Kloosterwerf,   <cell rows=3 rend="image(images/rightbrace3.png)"> <cell rows=3> afgespoeld of verbrand.
+<row><cell>De Tamenswerf,        <cell>De Houtenmanswerf,
+<row><cell>De Koevordenwerf,     <cell>
+</table>
+
+
+<pb id=pb6 n=6><p>Van deze laatste is de naam nog over gebleven in de Kloostersloot.&mdash;Eveneens is dit het geval met de Kraaijenwerversloot.
+
+<p>Thans echter zijn van de elf bovengenoemde werven nog slechts de onderstaanden overig:
+
+<p>De Kerkbuurt, Nieuwe Buurten, Kets, Witte-, Groote-, Rozen- en Moeniswerf,&mdash;waarbij in den laatsten tijd nog gevoegd zijn, de Havenbuurt en de Vuurtoren.
+
+<p>De Heuvel verlaten en gesloopt.
+
+<p>De Remmerswerf afgebrand.    1810.
+
+<p>De Noorderwerf verlaten en gesloopt.    1825.
+
+<p>Altena verlaten.    1808.
+
+<p>Weleer was <hi rend=ex>Marken</hi> eene bloeijende plaats, wier inwoners, voor het meerendeel, den landbouw uitoefenden, en op de veeteelt zich toelegden. Men vond er, zeer vruchtbare wei- en bouwlanden, die afgewisseld werden door fraai aangelegde Lusthoven en hoog opgaand geboomte. Langzamerhand evenwel, werden deze vruchtbare velden, door de zee ondermijnd en verzwolgen, en waren de volgende geslachten genoodzaakt, zich op de zeevaart toe te leggen.
+
+<p>De, in vorige eeuwen, steeds toenemende Groote- of Haringvisscherij, werkte daartoe zeer mede, zoodat er zelfs meer dan &bdquo;<hi>negentig Marker-Visscherlieden als Stuurlieden op de Haringbuizen werden aangesteld</hi>.&rdquo;
+
+<p>Ook ten tijde, dat de Walvischvangst in haren eersten bloei verkeerde, voer een aanzienlijk deel der Markers op <hi rend=ex>Groenland</hi>, en in een oud handschrift, vinden wij nog vermeld, dat &bdquo;<hi>een zevental wakkere Varensgasten, als Commandeurs, op de Schepen die ter Walvischvangst voeren, gefungeerd hebben, oock vand men toen hier</hi> (te Marken) <hi>zeer behendighe en uijtsteekende harpoeniere</hi>.&rdquo;
+
+<p>De namen der bovengenoemde zeven wakkere varensgasten zijn:
+
+<pb id=pb7 n=7>
+
+<list>
+    <item><hi rend=sc>ELBERT JANSE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>d&apos;Eendraght</hi>,
+    <item><hi rend=sc>MUUS CORNELISE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>de Noordpool</hi>,
+    <item><hi rend=sc>OUTGER ELBERTS</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>Fortuna</hi>,
+    <item><hi rend=sc>KLAAS PIETERSE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>Harlingen</hi>,
+    <item><hi rend=sc>PIETER PIETERSE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>de Walvisch</hi>,
+    <item><hi rend=sc>JAN TIJMENSE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>Noord-Holland</hi>,
+    <item><hi rend=sc>CORNELIS JACOBSE</hi>, <hi>voerende &apos;t Schip</hi> <hi rend=ex>de Hoop</hi>.
+</list>
+
+
+<figure id=map1 rend="image(images/map1.png)">
+<head>KAARTJE VAN MARKEN IN 1770.</head>
+
+<p>
+
+<list rend="columns(2)">
+    <item>A.  Algemeene Haven en Buurter Sluis
+    <item>B.  Vuurtoren.
+    <item>C.  Loots.
+    <item>D.  Kraaijenwerversluis en Sloot.
+    <item>E.  Meundersluis en Sloot.
+    <item>F.  Meuningsluis en Sloot.
+    <item>G.  Kloostersluis en Sloot.
+    <item>H.  Nieuwesluis en Sloot.
+    <item>I.  Sluis.
+    <item>X.  Weiland.
+    <item><hi>a.</hi>  Rietland, Buitenoevers.
+    <item><hi>b.</hi>  Omringdijk.
+    <item>1.  Noorderwerf.
+    <item>2.  Kraaijenwerf.
+    <item>3.  Moeniswerf.
+    <item>4.  Heuvel.
+    <item>5.  Rozenwerf.
+    <item>6.  Groote Werf.
+    <item>7.  Remmerswerf.
+    <item>8.  Kets.
+    <item>9.  Nieuwe Buurten.
+    <item>10.  Kerkbuurt.
+    <item>11.  Altena.
+    <item>12.  Ooster Wijde Sloot.
+    <item>13.  Oosterpad.
+    <item>14.  Buurter Wijde Sloot.
+</list>
+</figure>
+
+<pb id=pb8 n=8>
+
+
+<figure id=map2 rend="image(images/map2.png)">
+<head>KAARTJE VAN MARKEN IN 1853.</head>
+
+<p>
+
+<list rend="columns(2)">
+    <item>A.  Buurterpad.
+    <item>B.  Zereiderpad.
+    <item>C.  Minneweg.
+    <item>D.  Haven.
+    <item>E.  Krabbehoofd.
+    <item>F.  Vuurtoren.
+    <item>H.  Nieuwe Haven, (Gegraven in 1853).
+    <item>X.  Weiland.
+    <item><hi>a.</hi>   Rietland, Buitenoevers.
+    <item><hi>b.</hi>   Reisdam.
+    <item><hi>c.</hi>   Omringdijk.
+    <item><hi>d.</hi>   Ring- of Barmsloot.
+    <item><hi>e.</hi>   Kanaal.
+    <item><hi>f.</hi>   Kanaaldijk.
+    <item>1.  Noorderwerf.
+    <item>2.  Rozenwerf.
+    <item>3.  Moeniswerf.
+    <item>4.  Groote Werf.
+    <item>5.  Witte Werf.
+    <item>6.  Kerkbuurt.
+    <item>7.  Kets.
+    <item>8.  Nieuwe Buurten.
+    <item>9.  Havenbuurt<corr sic=",">.</corr>
+</list>
+</figure>
+
+
+
+<pb id=pb9 n=9>
+<div1 id=tegenwoordig>
+<head>TEGENWOORDIGE GESTELDHEID VAN HET <hi rend=ex>EILAND MARKEN</hi><note n=1>Marken telt thans 950 inwoners, die allen de H. Godsdienst belijden.</note>.</head>
+
+
+<p>Het <hi rend=ex>Eiland Marken</hi>, weleer aan het Vaste Land verbonden, doch sedert overlangen tijd, daarvan afgescheurd, door de gedurige inbraken en overstroomingen van het oude meer <hi rend=ex>Flevo</hi>, thans de Zuiderzee, en door gedurige afspoeling, telkens kleiner van omvang geworden, ligt op ongeveer een half uur afstands van den Waterlandschen zeedijk, tegen over de Gemeente Katwoude, en is, gerekend naar den tijd, dien men behoeft, om des winters, bij sterk ijs, naar het stadje Monnickendam te gaan, ongeveer één uur afstands van daar in de Zuiderzee gelegen.
+
+<p>Het beslaat thans eene oppervlakte van 295 bunders, strekt zich ter lengte van 883 roeden, van het Oosten ten Noorden, naar het Westen ten Zuiden uit, en wordt, door de dusgenaamde <hi rend=ex>Goudzee</hi>, van den vasten wal gescheiden.
+
+<p><hi rend=ex>Marken</hi> heeft de gedaante van eenen scheefhoekigen driehoek, welks toppunt naar het Oosten is gekeerd,&mdash;en is thans omgeven met eenen, tamelijk zwaren, dijk, welks kruin, gemiddeld, ter hoogte van bijna 1.30 Ned. El, boven den waterspiegel verheven is, en die, voor het grootste gedeelte met zware steenglooijingen, en op sommige plaatsen, ook met stevig geheid paalwerk, tegen de kracht van de golfslagen der Zuiderzee voorzien is. Op die plaatsen echter, waar nog buitenoevers zijn, behoeft den dijk de bovengenoemde beveiligingsmiddelen niet, dewijl het buitenland de kracht der golven genoegzaam breekt.
+
+<pb id=pb10 n=10><p>Deze, betrekkelijk, geringe dijkshoogte (1.20 N. El), is dan ook de oorzaak, waardoor het <hi rend=ex>Eiland</hi>, bij zeer hooge watergetijden, onderloopt.&mdash;Wij zeggen <hi>betrekkelijk</hi> geringe dijkshoogte:&mdash;Immers, alhoewel de dijk geene genoegzame hoogte heeft, om het zeewater bij hooge vloeden te kunnen keeren, zoo moet men niet te min erkennen, dat dezelve, in vergelijking met den vroegeren toestand der omringkade, thans merkelijk hooger is;&mdash;op sommige plaatsen toch, o. a. op de hoogte van <hi>Rozenwerf</hi>, is de kruinshoogte van den dijk, nabij de 2.00 Ned. Ellen, boven de oppervlakte der zee verheven, en van daar dan ook, dat men op Marken thans minder dan voorheen, den last van overstrooming te lijden heeft.
+
+<p>Welligt zegt deze of gene: &bdquo;Waarom den dijk niet tot zulk eene hoogte gebragt, dat het Eiland, geheel van den last des waters bevrijd blijve?&rdquo;&mdash;
+
+<p>Wij antwoorden daarop, dat deskundigen, op goede gronden, meenen te kunnen beweren, dat de bodem der zee, hier niet toelaat, den dijk, tot de daartoe noodige hoogte te verzwaren, als zijnde den grond, uit zijnen aard, daartoe te moerassig, waardoor gevolgelijk verzakking zoude ontstaan<note n=1>Deze bewering is echter onjuist. Immers, wat aangaat de <hi>verzakking</hi>, zoo merken wij aan, dat dezelve alleen van toepassing kan zijn, op nieuw aan te leggen dijken, naardien de bodem van Marken bestaat uit eene laag <hi>klei</hi>, en eene laag <hi>veen</hi>, gevolgd door eene weeke specie, <hi>derrie</hi> genaamd. Onder deze laatste stof ligt het <hi>vaste zand</hi>. Zoo lang nu de dijk, en het veen, niet door deze derrie zijn heengezonken tot op het vaste zand, is verzakking steeds noodzakelijk. De Markerdijk heeft echter die verzakking reeds ondergaan, en zou dus de noodige zwaarte tot een 2 els hoogte zeer wel kunnen dragen.&mdash;Bewijzen daarvoor zijn zigtbaar in de terpen waarop de buurten zijn gebouwd, die zelfs hooger dan 2 el boven A. P. gelegen, en aan geene verzakking onderhevig zijn, en toch zijn deze daarenboven nog bebouwd. Ook de begraafplaats, die ruim 2 el hoog is, is sedert haren aanleg, <hi>niets verzakt</hi>. Van hoe groot belang het voor de ingezetenen zoude zijn, indien den dijk de noodige hoogte hadde, om van het water bevrijd te blijven, is op te maken uit de Bijlage, die wij op pag. 24 hebben neêrgesteld.</note>.
+
+<pb id=pb11 n=11><p>Ter uitwatering van het Eiland, is de dijk met een drietal sluisjes voorzien, de <hi>Buurter-</hi>, <hi>Meunder-</hi> en <hi>Kraaijenwerver-sluis</hi> geheeten, waarvan de eerste bij de haven gevonden wordt, terwijl de beide andere aan den Zuidoostelijken omringdijk zijn gelegen.&mdash;Vroeger telde men zeven zulke sluisjes; waarvan de Meuning-, Klooster-, Nieuwe- en Schippers-sluisjes thans niet meer bestaan.
+
+<p><hi rend=ex>Marken</hi> is over zijne gansche oppervlakte doorsneden met Vaarten en Slooten, die allen in verbinding staan met de hoofdvaart des Eilands, <hi>de Buurter-Wijde-Sloot</hi> genaamd. Voor het gerijf van den hooibouw, en ook voor veehouders, zijn deze vaarten en slooten van groot belang, ja bijna geheel onmisbaar, naardien al het hooi, naar de los- en ladingplaats aan de Haven vervoerd moet worden, met eene bijzondere soort van kleine vaartuigen, <hi>Marker-binnenschuitjes</hi> geheeten, wier model, enkel te Marken inheemsch is, en die, naar men zegt, alleen op de Scheepswerven van de Heeren <hi rend=sc>Kater</hi>, te Monnickendam, naar eisch vervaardigd worden.
+
+<p>Ook voor de Veehouders zijn deze slooten, te meer noodig, naardien zij, aangezien het water binnen <hi>Marken</hi> daartoe te zout is, gehouden zijn, hun vee dagelijks van versch put- of welwater te voorzien. Schapen echter, kunnen zonder eenig nadeel, het slootwater drinken.
+
+<p>Het gansche Eiland wordt in deszelfs lengte, van het Oosten naar het Westen, doorsneden door een&apos; gegraven vaart, het <hi>Kanaal</hi> genoemd, hetwelk een gedeelte is, van het eerst ontworpen Noord-Hollandsche Kanaal, welk ontwerp echter later, niet geheel ten uitvoer is gelegd. In dit water wordt thans door sommige Eilanders op aal en paling gevischt. Eindelijk is het Eiland omgeven met eene <hi>barmsloot</hi>, welke in de rigting van den omringdijk, het gansche Eiland omgeeft, en die de afwatering der landerijen zeer bevorderd.
+
+<pb id=pb12 n=12><p><hi>De voortbrengselen</hi> van den vruchtbaren kleigrond dezes Eilands, zijn hooi, gras en riet. De niet watervrije ligging van den bodem, belet deszelfs bewoners, om zich ook op de teelt van andere veldgewassen toe te leggen.&mdash;Het land wordt nooit bemest, dewijl de overstrooming telkens eene genoegzame hoeveelheid vruchtbaarmakende slip op het veld achterlaat. Het hooi wordt, voor verreweg het grootste gedeelte uitgevoerd, naar Gelderland, Utrecht en Noord-Holland. Dit zelfde heeft ook met het riet plaats, dat voornamelijk op de buitenlanden, in eene groote hoeveelheid groeit, en van eene bij <corr sic=uitnemenheid>uitnemendheid</corr> goede hoedanigheid is; terwijl die gedeelten der landerijen, welke niet tot hooiland zijn bestemd, tot weiland voor het hoornvee gebruikt worden, hetwelk slechts ter voorziening in de dagelijksche behoefte van melk, gehouden wordt.
+
+<p>Tegenover dezen uitvoer, staat de invoer van alle levensbehoeften, als boter, kaas, groenten, manufacturen, aardappelen, meel, erwten, boonen, turf, hout, enz., hetwelk s&apos; wekelijks, van Monnickendam, Hoorn en Amsterdam wordt aangebragt. En, ofschoon er op dit Eiland thans drie broodbakkers zijn, die zeer goed brood leveren, zoo wordt er nogthans, s&apos; wekelijks, eene aanzienlijke hoeveelheid brood uit Harderwijk en Nijkerk ingevoerd.
+
+<p><hi>Het Hoofdmiddel van bestaan op Marken is de Visscherij.</hi>
+
+<p>Het grootste gedeelte der Markers oefent dit bedrijf uit, met hunne botters op de Zuiderzee, waar zij hoofdzakelijk visschen, des winters op haring, en des zomers op ansjovisch; gedurende het overige gedeelte van den zomer, bepalen sommigen zich tot het botvisschen, doch daar de voordeelen der laatstgenoemde visscherij van weinig of geen belang zijn, leggen slechts weinigen er zich op toe.
+
+<p>Een ander aanzienlijk deel der Eilanders vischt gedurende den  Winter, en in het voorjaar tot Mei, met hunne <pb id=pb13 n=13>schuiten, op de Zuiderzee, terwijl zij zich des Zomers, met de Buisschepen naar de Noordzee begeven om deel te nemen aan de Groote- of Haringvisscherij.&mdash;Vroeger echter, was het getal der Buislieden, veel grooter dan tegenwoordig. Zoo telde men in 1793 op Marken acht en dertig Stuurlieden of Gezagvoerders van Buizen, terwijl men er thans nog slechts veertien heeft.&mdash;Daarentegen is het getal der Bottervisschers, sedert evengemeld jaar, zoo sterk vermenigvuldigd, dat het getal botters, thans, in stede van achttien, bijna negentig bedraagt.
+
+<p>Eindelijk bepalen zich sommige visscherlieden, gedurende den zomer, tot het vracht varen met hooi en turf, terwijl weder enkelen zich bezig houden, met het sleepen van Koopvaarders, over het Pampus, zijnde eene droogte in de Zuiderzee, die zich, van af Durgerdam ter lengte van 3/4 uur, O. t. N. in zee uitstrekt.
+
+<p>Overigens heeft men op Marken ééne zeilmakerij, ééne tanerij, twee timmerlieden, die tevens metselaars en hoepelmakers zijn, drie broodbakkerijen en acht kruidenierswinkels,&mdash;terwijl er zeven veehouders zijn. Sedert eenigen tijd, heeft men zich op eene meer uitgebreide schapenfokkerij toegelegd.<note n=1>Gelijk overal, zijn ook op Marken, de opbrengsten der landerijen zeer toegenomen.</note>
+
+<p>Van de <hi>Buurten</hi> of <hi>Terpen</hi>, die thans op Marken aanwezig zijn, en wier getal thans 10 bedraagt, is de <hi rend=ex>Kerkbuurt</hi> of <hi rend=ex>Monnickenwerf</hi>, door de Markers bij verkorting <hi>Me-korf</hi> of <hi>Me-kurf</hi>, geheeten, de grootste en voornaamste. Zij onderscheidt zich van de overige buurten, door eene meer geregelde bebouwing en door betere bestrating. Vroeger was zij in het geheel niet bestraat, lagen er slechts hier en daar eenige planken, en was het, vooral gedurende den winter, bijna ondoenlijk, zonder laarzen, deze buurt door te gaan.
+
+<pb id=pb14 n=14><p>Over het algemeen is de toestand der wegen of paden, sedert de laatste jaren, veel verbeterd, en jaarlijks worden door de bemoeijingen van het tegenwoordig <hi rend=ex>Plaatselijk Bestuur</hi>, de noodige middelen aangewend, om deze meer en meer te verbeteren, zoodat er nu reeds, voor het grootste gedeelte, goed bestrate voetpaden zijn, waar men voor weinige jaren nog bijna onbruikbare kleiwegen vond.
+
+<p><hi rend=ex>De Kerkbuurt</hi> is op eene heuvel gelegen, die zich ter hoogte van 6 à 8 voeten, boven het land verheft.&mdash;Ook de overige Buurten zijn op dusdanige Heuvels aangelegd, ten einde daardoor zooveel mogelijk van den last des waters bevrijd te blijven.
+
+<p>Op bovengenoemde Buurt staan de voornaamste gebouwen, zoo als: de Kerk, het School- en Raadhuis, de Pastorie enz. op welke wij nader zullen terug komen.
+
+<p>Op ongeveer tien minuten gaans van de <hi rend=ex>Kerkbuurt</hi> liggen de <hi rend=ex>Nieuwe Buurten</hi>, welke eigenlijk uit drie afzonderlijke, naast elkander liggende heuvels bestaan. Zuidwaarts van deze ligt <hi rend=ex>de Kets</hi>, zijnde eene buurt, waarlangs het kanaal loopt, en die slechts uit een zestal huizen bestaat.
+
+<p>Noordwestwaarts van deze buurt, en slechts weinige schreden van de <hi rend=ex>Nieuwe Buurten</hi>, ligt aan de Haven, <hi rend=ex>de Havenbuurt</hi>, alwaar men, benevens eene woning voor den Opzigter van den Waterstaat, en eene directie-keet, de reeds vroeger gemelde Tanerij en Zeilmakerij vindt.
+
+<p>Vóór weinige jaren bestonden hier ook eene Scheepstimmerwerf en Smederij.&mdash;Thans zijn deze vernietigd.
+
+<p>Zuidoostelijk van de <hi rend=ex>Kerkbuurt</hi> liggen de vier overige buurten des Eilands, n.l. <hi rend=ex>de Witte Werf</hi>, <hi rend=ex>Groote Werf</hi>, <hi rend=ex>Rozenwerf</hi> en <hi rend=ex>Moeniswerf</hi>, welke te zamen, op Marken den naam van de <hi rend=ex>Zereide</hi>, dragen, en waarvan het <hi rend=ex>Zereiderpad</hi> zijnen naam ontleent.
+
+<p>Van deze Werven is weinig meer te zeggen, dan dat op <pb id=pb15 n=15>de laatstgenoemde, op <hi rend=ex>Moeniswerf</hi>, eene <hi>Arm-inrigting</hi> gevonden wordt, die der Diaconie toebehoort, en waarin zulke behoeftige Eilanders worden verzorgd, die lidmaten zijn der Hervormde Gemeente. Ook op de <hi rend=ex>Kerkbuurt</hi> staat eene <hi>liefdadige inrigting</hi>, het <hi rend=ex>Armhuis</hi>, geheeten; in hetzelve worden zoodanige armen verpleegd, die ten laste der <hi rend=ex>Algemeene armen</hi> zijn.
+
+<p>Behalve de beide genoemde inrigtingen verdienen, nog gemeld te worden:
+
+<p><hi>a.</hi> <hi rend=ex>De Haven.</hi> Deze, aangelegd in het jaar 1837, ligt in het Noordwestelijk deel des Eilands, omtrent 10 minuten gaans van de Kerkbuurt verwijderd, en is de gewone landings-, los- en ladingsplaats. Zij heeft bij eene lengte van 75 Ned. Ellen, eene breedte van 40 Ned. Ellen, en is omgeven met eenen dijk, die aan de havenzijde van eene stevige schoeijing en gording voorzien is. Door de gedurige vermeerdering van het aantal botters, is zij thans echter al te bekrompen geworden, zoodat men in 1853, een begin gemaakt heeft, met het graven eener tweede Havenkom, van gelijke grootte als de eerste, en die thans (1854) met deze, tot één geheel zal vereenigd worden. Behalve deze haven, is er ook eene afzonderlijke ligplaats voor de haringschuiten, de <hi>Kolk</hi> genaamd, en die als eenen regterarm der Havenkom kan beschouwd worden.
+
+<p>De geheele inrigting der Haven, kan zeer doelmatig genoemd worden, en zij onderscheidt zich, door haren geheelen aanleg, gunstig van vele andere visschershavens.&mdash;Het eenige waarop, vooral door vreemde Schippers, aanmerking wordt gemaakt, is de naauwe ingang der Haven; doch het schijnt, dat men deze niet wel kan vergrooten<corr sic=.>,</corr> zonder daardoor, in de haven zelve, last te lijden, van eenen al te grooten golfslag, die, vooral met harden Noordwestelijken wind, van belang is.
+
+<pb id=pb16 n=16><p>Vroeger bestonden er op verschillende plaatsen van het Eiland, tusschen de buitendijks liggende, rietlanden, inhammen of kreeken, visschershavens genaamd, doch van tijd tot tijd, zijn deze door afspoeling, voor het grootste gedeelte verdwenen. Op dezen oogenblik bestaan er nog drie.
+
+<p><hi>b.</hi> <hi>De Begraafplaats.</hi> Deze is, na de slooping der Oude Kerk, in 1845 aangelegd op eene, sedert 1808 verlaten Buurt, Altena genaamd, en ligt omstreeks 5 à 6 minuten gaans, westwaarts van de Kerkbuurt verwijderd. Zij is zeer doelmatig ingerigt, als zijnde haren grondslag boven den beganen grond geheel water vrij. Zij heeft eene ovaalvormige gedaante, die in eene afhellende rigting is opgetrokken, terwijl de toegang tot dezelve, door eene omgegraven sloot en een&apos; poort, van den publieken weg is afgescheiden.
+
+<p><hi>c.</hi> De Pastorie, gebouwd in 1840, is een fiksch steenen huis, hetwelk het voorkomen der Kerkbuurt inderdaad tot sieraad verstrekt. Bij dezelve staan de eenigste vruchtboomen die men op het gansche Eiland aantreft.
+
+<p>Behalve deze, zijn er tegenover de Pastorie, op het zoogenaamde Erf, ook eenige wilgenboomen, die dus als zoo vele bewijzen dáár staan, dat het gevoelen, alsof op Marken geene boomen <hi>kunnen</hi> groeijen, faalt.
+
+<p><hi>d.</hi> Slechts eenige schreden van de Pastorie staat <hi rend=ex>de Kerk</hi>. Deze, ofschoon eerst sedert 1846 geheel nieuw opgebouwd, heeft, voor zoo veel haar uiterlijk aangaat, wel geen onbehagelijk voorkomen, doch zij voldoet geenszins aan de verwachting der Gemeente, naardien zij op verscheidene plaatsen zoodanig lekt, dat eene groote en kostbare reparatie, vooral aan de kap, eerlang plaats moet hebben.
+
+<p><hi>e.</hi> en <hi>f.</hi> <hi rend=ex>De School en het Raadhuis</hi>, vormen te zamen één kruisgebouw. Beide, in 1850 opgerigt, hebben eenen modernen vorm, terwijl de inrigting, zoo van het eene als van het andere, allezints doelmatig kan genoemd worden.
+
+<pb id=pb17 n=17><p>Jammer echter is het, dat het schoollocaal voor het aantal schoolpligtige kinderen, dat thans 180 à 190 bedraagt, te bekrompen is. De plaatselijke gesteldheid van het terrein, gedoogde echter geenen grooteren aanleg.
+
+<p><hi>g.</hi> Afgescheiden van de overige buurten, en op een half uur afstands van de <hi rend=ex>Kerkbuurt</hi> staat de <hi rend=ex>Vuurtoren</hi>, gebouwd in 1839. Het is in zijne soort een fraai, en bij uitstek net ingerigt gebouw, voorzien van een zeer sterk schitterend<note n=1>Van den tweeden rang.</note> kunstlicht. Hieraan is verbonden des lichtstookers woning.
+
+
+
+<pb id=pb18 n=18>
+<div1 id=bewoners>
+<head>DE BEWONERS VAN HET EILAND MARKEN.</head>
+
+
+<p>De <hi rend=ex>Markers</hi> worden, ofschoon zeer ten onregte, veelal voor een dom slag van menschen aangezien. Van waar deze valsche beschouwing haren grond ontleent, dit erkennen wij niet te weten, want, bij eene meer gezette beschouwing dezer lieden, en uit den dagelijkschen omgang met velen derzelve, blijkt ons juist het tegenovergestelde.&mdash;Of zou men dwaas genoeg kunnen zijn, om, welligt uit hunne eigenaardige kleederdragt, en uit hunne, hier alleen inheemsche, gewoonten, dit ongunstig besluit af te leiden: &bdquo;<hi rend=ex>Markers zijn dom en onbeschaafd?</hi>&rdquo; Dit mogen wij niet aannemen.
+
+<p>Wij zullen in deze korte schets ons bepalen met eenige voorname, algemeene eigenschappen dezer Visschers op te geven. Daarna oordeele de lezer in hoeverre de beschuldiging gegrond zij, dat deze Eilanders als dom en onbeschaafd verdienen te worden aangemerkt.
+
+<p>1<hi rend=sup>e</hi>. Misbruikers van sterken drank, worden onder deze Eilanders niet gevonden, hetgeen daarom te meer verwondering baart, en te meer verdient geprezen te worden, dewijl zij in hun bedrijf, met vele en aanhoudende moeijelijkheden en ontberingen, te <corr sic=kampeu>kampen</corr> hebben.
+
+<p>Wel wordt er jenever, brandewijn en anijs gedronken, doch dit heeft slechts bij bijzondere gelegenheden plaats, zoo als bij Bruiloften, Nieuwjaar, bij de terugkomst der Stuurlieden, enz., en dan nog wel in zulk eene geringe hoeveelheid, dat het gansche verbruik van sterken drank s&apos; jaarlijks slechts eenige weinige kannen bedraagt.
+
+<pb id=pb19 n=19><p>2<hi rend=sup>e</hi>. Ten aanzien van de zindelijkheid der Markers wordt meermalen een ongunstig oordeel geveld, en is er wel eens aangemerkt dat deze &bdquo;veel, zeer veel te wenschen overlaat.&rdquo;
+
+<p>Wij meenen nogthans, ter voorziening in die aanmerking, wederkeerig te kunnen aanmerken, dat, evenzeer als de reinheid van <hi rend=ex>Broek in Waterland</hi> vergroot wordt, ook de onzindelijkheid der Markers meer in <hi>naam</hi>, dan wel in de <hi>daad</hi> bestaat.
+
+<p>&apos;t Is waar, dit moeten wij erkennen, ook op Marken zijn huisgezinnen aan te wijzen, waarin men te vergeefs naar eenig spoor van reiniging zoeken zal. Doch, waar vindt men de zulken niet?  Wie wijst ons eene gemeente aan, waarin geene huisgezinnen worden gevonden, waarin ten deze opzigte, geene aanmerkingen zoude zijn te maken?
+
+<p>Over het algemeen echter, kan noch mag Marken van onzindelijkheid beschuldigd worden, ten zij men welligt, de onreinheid der wegen bedoele, gedurende den winter of bij regenachtig weder.
+
+<p>Als bewijzen van het door ons gezegde, meenen wij te mogen wijzen op den toestand der vaartuigen. En inderdaad, deze is eenig en voorbeeldig te noemen. Het voorkomen der botters en schuiten, zoo als zij dáár, en vooral op Zon- en Feestdagen in de haven liggen, heeft meer overeenkomst met eene vloot van pleiziervaartuigen, dan wel van eene vloot van visschersschuiten, die, ook bij storm en onweder, zee bouwen, en te vergeefs zal er naar slechts één vaartuig worden gezocht, waarvan met grond gezegd zoude kunnen worden, dat er iets op valt aan te merken, hetwelk tegen orde en reinheid zondigt; en toch is alleen aan <hi>mannen</hi> die zorg opgedragen.
+
+<p>Het zal dus wel geen breedvoerig betoog behoeven, om onze lezers te overtuigen, dat daar, waar de <hi>mannen</hi> zóó rein en zóó keurig op het <hi>hunne</hi> zijn, de <hi>vrouwen</hi> (en dit <pb id=pb20 n=20>ligt in den aard der zaak opgesloten) vooral geene mindere reinheid, of minder zorg, op het <hi>hare</hi> aan den dag zullen leggen. Men houde hierbij echter in het oog, dat de meestal zeer bekrompene behuizing, het bij velen groot getal kinderen, de ontbering van de hulp eener dienstbode, als ook de plaatselijke gesteldheid zelve, als zoo vele oorzaken zijn aan te merken, die de zindelijkheid der huismoeders bemoeijelijken, tegenwerken en minder doen uitkomen, dan zulks veelal aan den vasten wal het geval is.
+
+<p>3<hi rend=sup>e</hi>. Ook ten opzigte van hunnen ijver in hun beroep, leeren wij de Markers van geene ongunstige zijde kennen. Immers van hun vroegste jeugd af aan, tot zelfs in vergevorderden ouderdom, zijn zij onafgebroken bezig in hun beroep, en dat zoowel in den barren winter als in de zachte lente en warmen zomer.
+
+<p>Mannen, jongelingen, knapen, ja zelfs grijsaards, bevinden zich steeds, bij vaarbaar weêr, ter zee, en komen zij, voor zoo veel de botterlieden aangaat, slechts eenmaal per week, en wel des Zaturdags, te huis, terwijl zij dan, wanneer er geene gelegenheid ter uitoefening van hun bedrijf bestaat, hunnen tijd besteden tot het vervaardigen en herstellen van de noodige netten en het onderhouden van hunnen vaartuigen. Aan de vrouwen is, behalve de gewone huisselijke werkzaamheden, de zorg opgedragen, voor de opvoeding der kinderen, die meestal voor het grootste gedeelte door de vaders niet kan worden waargenomen. Hun dagelijksch afzijn is hiervan de oorzaak. Voorts behoort de vervaardiging van alle noodige kleedingstukken, ook van die der mannen, tot der vrouwen werkkring, terwijl zij tevens den hooibouw waarnemen, en het noodige garen spinnen voor het vischwand.
+
+<p>4<hi rend=sup>e</hi>. Het is eene erkende waarheid, dat deze Eilandbewoners, in hooge mate, zuinig zijn, op hunne bezittingen en inkomsten. Slechts zeer weinigen zijn hiervan uitgezonderd. <pb id=pb21 n=21>Van daar is het, dat deze Gemeente, in vergelijking van andere Visschersplaatsen, meer welvarend en meer bemiddeld is, dan vele andere. Een bewijs hiervoor, meenen wij te kunnen vinden in de plaatselijke armoede. Voor vele andere gemeenten toch, worden jaarlijks, en bij herhaling, liefdegaven opgevraagd ten behoeve der vele noodlijdende ingezetenen, terwijl ten behoeve der Markers nooit iets, het minste zelfs niet, wordt gevraagd. En nogthans ondervinden ook deze, in gelijke mate als andere visschers, het nadeelige en schadelijke, hetwelk, zoo door mislukte visscherij als door vroeg invallende winters, wordt te weeg gebragt.
+
+<p>5<hi rend=sup>e</hi>. Ook de belezenheid der Markers pleit ten gunste voor hun zedelijk karakter; want de kennis van vele zaken, inzonderheid der Vaderlandsche Geschiedenis, Aardrijkskunde en Rekenkunst betreffende, bewijzen eenen weetgierigen aard en lust tot nuttige bezigheid.
+
+<p>Ook het getrouw bezoeken der school, getuigt, dat zij verstandelijke ontwikkeling op prijs stellen; van de 190 à 200 schoolpligtige kinderen, (wier schoolpligtigheid van het 5<hi rend=sup>e</hi> tot het 14<hi rend=sup>e</hi> jaar ingesloten duurt,) komen er gemiddeld ruim 160 ter school. Eindelijk, diegenen der Markers, welke zich op de beoefening van andere vakken hebben toegelegd, zijn daarin allen naar wensch geslaagd, en toonen zij nog dagelijks, dat zij in hunne betrekking zijn wat zij moeten zijn.
+
+<p>6<hi rend=sup>e</hi>. Even gunstig leeren wij deze Eilanders kennen in hun huisselijk leven. Bescheidenheid en onderlinge liefde wonen steeds bij hen in, en indien ons gevraagd werd, of wij voorbeelden kennen van huisselijke tweedragt, zoo zouden wij daarop ontkennend moeten antwoorden.<note n=1>Echtscheidingen hebben hier zeer zelden plaats: sedert onheugelijke jaren kent men er slechts ééne&mdash;doch onwettig. Het aantal onwettige geboorten bedraagt in de 20 jaren naauwelijks één.</note>
+
+<p>7<hi rend=sup>e</hi>. Eindelijk, in den omgang doen de Markers zich als <pb id=pb22 n=22>eenvoudige lieden kennen, in zoo verre namelijk, deze eenvoudigheid betrekking heeft op hunne wijze van voorkomen. Zij zwijgen liever, dan te spreken over zaken waarvan zij geene kennis hebben, terwijl datgene wat zij spreken, doorgaans goed ter snede komt.
+
+<p>Over het algemeen stellen zij een levendig belang in al wat Godsdienstig is, en getuigt hun oordeel over, en hunne bekendheid met vele zaken dienaangaande, dat zij meer dan oppervlakkig bekend zijn, met vele Godsdienstige en zedelijke werken.
+
+<milestone unit=tb>
+
+<p>Wij voegen hierbij nog de volgende bijzonderheden, waarmede wij deze <hi>schets</hi> zullen besluiten.
+
+<p>Vooreerst, hunne <hi>huisselijke inrigting</hi>. Deze is, na den noodlottigen watervloed van 1825, die overigens op Marken weinig schade heeft aangebragt, over het geheel zeer bekrompen geworden, en onderscheidt zich voornamelijk door het gemis van schoorsteenen. De meeste woningen bestaan uit één woonvertrek, dat mede tot slaapkamer, keuken en bergplaats voor de visschersgereedschappen dient. De haard of vuurplaats vindt men doorgaans voor het grootste raam, en bestaat uit een&apos; plaat, die omgeven is met eene rei gewone vloertegels of witte marmeren steenen; bij deze plaat staat een kleiner, in den grond bevestigd, stuk plaatijzer, waartegen het vuur wordt aangelegd. Vlak voor deze haard staat de tafel, waarbij veelal eenige zeer lage stoelen. Een gat boven in het dak, <hi>de kist</hi> genaamd, trekt de rook regt op, die zich verder boven in het huis, alwaar het vischwand geborgen is, verspreid, en waardoor men dus beneden weinig of geen hinder lijdt van den rook.
+
+<p>De woningen der <hi>Markers</hi> zijn voor het grootste gedeelte inwendig niet geverwd, maar worden eenige malen &apos;s jaars <pb id=pb23 n=23>schoongemaakt en met zuiver krijtwit bestreken. Behalve de woonkamer hebben sommigen nog een afzonderlijk vertrekje, dat tot een zoogenaamd pronkkamertje dient, en waarin het beste huisraad en de kleederen bewaard wordt.
+
+<p>Deze huisselijke inrigting is bij verreweg de meeste Markers dezelfde; slechts een dertigtal woningen zijn er, waarin men eenen schoorsteen aantreft.
+
+<p>Ten tweede. Ook <hi>de Kleederdragt</hi> der Markers is eenig en bijzonder. Dezelve is een overblijfsel van den zoogenaamden Spaanschen tijd, en nog op de huidigen dag, zegt men, dat de kleeding der landlieden in Andalusië, veel met die der Markers overeenkomt. Zij bestaat zoowel bij de vrouwen als bij de mannen, voor het grootste gedeelte uit wollen stoffen, zoo als baai, duffel, bever enz., en is bij allen, zoo bij behoeftigen als meer gegoeden en rijken, dezelfde. Het <corr sic=eenigste>eenige</corr> teeken van meerdere gegoedheid of welvaren is een tweetal knoopen, die zij in de kraag of boord van het hemd dragen; de gegoedsten bezitten gouden, anderen zilveren. Eigenlijk onderscheid van rang of stand is er niet zigtbaar.
+
+<p>Ofschoon er onder de Markers geene eigenlijke mode bestaat, zoo heeft nogthans het gebruik de verwisseling der kleederdragt aan eenige vaste regels gebonden. Zoo wil het gebruik, dat op kermis, bij bruiloften, in bruidsdagen enz. de gewone kleeding plaats make voor andere tooisels, die òf alléén op kermis, òf alléén bij bruiloften, òf alléén in bruidsdagen enz. gebruikt mogen worden.
+
+<p>Ten derde. Alhoewel op Marken de uitspraak onzer taal vrij goed is, zoo bezigt men er toch verscheidene woorden, die minder algemeen verstaan worden. De voornaamste van deze zijn:
+
+<pb id=pb24 n=24>
+
+<table id=t3>
+<row><cell>het woord <cell><hi>bappe</hi>                  <cell>voor: <cell>grootvader,
+<row><cell><ditto>het woord</ditto> <cell><hi>noom</hi>    <cell><ditto>voor:</ditto> <cell>oom,
+<row><cell><ditto>het woord</ditto> <cell><hi>tutte</hi>   <cell><ditto>voor:</ditto> <cell>zuster,
+<row><cell><ditto>het woord</ditto> <cell><hi>bort</hi>    <cell><ditto>voor:</ditto> <cell>borst,
+<row><cell><ditto>het woord</ditto> <cell><hi>zeert</hi>   <cell><ditto>voor:</ditto> <cell>pijn
+<row><cell><ditto>het woord</ditto> <cell><hi>schelig</hi> <cell><ditto>voor:</ditto> <cell>leelijk,
+<row><cell><ditto>het woord</ditto> <cell><hi>bas</hi>     <cell><ditto>voor:</ditto> <cell>mooi, (aangedaan),
+<row><cell><ditto>het woord</ditto> <cell><hi>kniesse</hi> <cell><ditto>voor:</ditto> <cell>knieën,
+<row><cell><ditto>het woord</ditto> <cell><hi>gank</hi>    <cell><ditto>voor:</ditto> <cell>haastig,
+<row><cell><ditto>het woord</ditto> <cell><hi>vider</hi>   <cell><ditto>voor:</ditto> <cell>emmer,
+</table>
+
+
+<p>enz. terwijl zij, even als de Zeeuwen, de <hi>h</hi> dáár noemen waar zij niet, en dezelve weglaten dáár waar zij al genoemd moet worden.
+
+
+<div1 id=bijlage>
+<head>BIJLAGE.</head>
+
+<p>De landerijen op Marken, (zij behooren allen aan de bewoners,) beslaan te zamen ruim 295 bunders. Hiervan gaat af, voor bebouwde eigendommen, dijk, rietland en water, 70 bunders. Van de overige 225 bunders, worden 25 bunders als weiland gebruikt, zoo dat de vlakke inhoud der hooivelden, p.m. 200 bunders bedraagt. De oogst van deze velden beloopt &apos;s jaarlijks p.m. &florin; 10,000.
+
+<p>Op deze 200 bunders, zou men (indien men geene overstrooming te duchten had,) ruim 3000 schapen kunnen houden. Stelt men nu de gemiddelde opbrengst van ieder schaap op &florin; 10, dan zou men een kapitaal verkrijgen van &florin; 30,000, hetgeen dus voor de ingezetenen van Marken, eene winst van &florin; 20,000 zoude opbrengen.
+
+<p>Dat dit gunstig resultaat, in het belang der Markers, spoedig mogt verkregen worden, is de wensch van
+
+
+    <p rend="class(signed)"><hi rend=sc>DEN SCHRIJVER.</hi>
+
+
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[X] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2. ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
