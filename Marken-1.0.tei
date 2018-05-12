@@ -8,8 +8,8 @@
 <fileDesc>
 <titleStmt>
 <title>Het Eiland Marken en zijne bewoners</title>
-<author key="Allan, Francis" ref="https://viaf.org/viaf/169274248">Francis Allan (1826&ndash;1908)</author>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Allan, Francis" ref="https://viaf.org/viaf/169274248/">Francis Allan (1826&ndash;1908)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -18,6 +18,7 @@
 <idno type=OLW>#####</idno>
 <idno type=OCLC>#####</idno>
 <idno type=LibThing>#####</idno>
+<idno type=PGSrc>44507-Allan-Het-Eiland-Marken</idno>
 <idno type=PGclearance>20130407012000allan</idno>
 <idno type=PGDPProjectId>projectID51816f36aa5b4</idno>
 <idno type=epub-id>urn:uuid:c49d09d0-45b4-49a2-b6ef-93c3e1dd14ca</idno>
@@ -26,7 +27,7 @@
 <availability lang=nl>
 <p>&availability.nl;
 
-<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 </availability>
 </publicationStmt>
@@ -49,10 +50,6 @@
     <langUsage lang=nl>
         <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
         <language id=nl>Nederlands</language>
-        <language id=en>Engels</language>
-        <language id=de>Duits</language>
-        <language id=fr>Frans</language>
-        <language id=la>Latijn</language>
     </langUsage>
     <textClass>
         <keywords>
@@ -140,7 +137,7 @@
 <pb n=I>
 </front>
 <body>
-<div1 id=intro type=Introduction>
+<div1 id=intro type=Chapter>
 <head>INLEIDING.</head>
 
 
@@ -195,7 +192,7 @@
 
     <pb id=pb2 n=2><p>&bdquo;Voorts is dit Eiland doorsneden met Slooten en Vaarten, alsmede voorzien met 7 houten sluisjes ter uitwatering.&mdash;
 
-    <p>&bdquo;<hi>De zeewering</hi> dezes Eilands, bestaat uit een aarden dijk of kade, ter hoogte van ruim 4 à 5 voeten boven valzee, en Kruijnsbreedte van 3/7 op eene 2 en 3 voets vallinge.&mdash;Deze omringdijk is op vele plaatsen, aan deszelfs buitenzijde, met Steenglooijingen voorzien, als van tijd tot tijd meerder noodzakelijk wordende, uit hoofde der afslijtende rietlanden en buitenoevers.&mdash;Men vindt ook nog op eenige plaatsen, ten dien einde, paalwerken, doch dezelve worden, uit hoofde der worm en kostbaarheid nu verlaten.
+    <p>&bdquo;<hi>De zeewering</hi> dezes Eilands, bestaat uit een aarden dijk of kade, ter hoogte van ruim 4 à 5 voeten boven valzee, en Kruijnsbreedte van &frac37; op eene 2 en 3 voets vallinge.&mdash;Deze omringdijk is op vele plaatsen, aan deszelfs buitenzijde, met Steenglooijingen voorzien, als van tijd tot tijd meerder noodzakelijk wordende, uit hoofde der afslijtende rietlanden en buitenoevers.&mdash;Men vindt ook nog op eenige plaatsen, ten dien einde, paalwerken, doch dezelve worden, uit hoofde der worm en kostbaarheid nu verlaten.
 
     <p>&bdquo;De kosten hiertoe worden uit &apos;s Eilands kas en uit de daartoe geaccordeerde Subsidiën gevonden. (Exept de Vuurtoren, Loots en Oever, door het Collegie der Pilotage.)
 
@@ -454,7 +451,7 @@ Buurten of Terpen
 
 <p>Een ander aanzienlijk deel der Eilanders vischt gedurende den  Winter, en in het voorjaar tot Mei, met hunne <pb id=pb13 n=13>schuiten, op de Zuiderzee, terwijl zij zich des Zomers, met de Buisschepen naar de Noordzee begeven om deel te nemen aan de Groote- of Haringvisscherij.&mdash;Vroeger echter, was het getal der Buislieden, veel grooter dan tegenwoordig. Zoo telde men in 1793 op Marken acht en dertig Stuurlieden of Gezagvoerders van Buizen, terwijl men er thans nog slechts veertien heeft.&mdash;Daarentegen is het getal der Bottervisschers, sedert evengemeld jaar, zoo sterk vermenigvuldigd, dat het getal botters, thans, in stede van achttien, bijna negentig bedraagt.
 
-<p>Eindelijk bepalen zich sommige visscherlieden, gedurende den zomer, tot het vracht varen met hooi en turf, terwijl weder enkelen zich bezig houden, met het sleepen van Koopvaarders, over het Pampus, zijnde eene droogte in de Zuiderzee, die zich, van af Durgerdam ter lengte van 3/4 uur, O. t. N. in zee uitstrekt.
+<p>Eindelijk bepalen zich sommige visscherlieden, gedurende den zomer, tot het vracht varen met hooi en turf, terwijl weder enkelen zich bezig houden, met het sleepen van Koopvaarders, over het Pampus, zijnde eene droogte in de Zuiderzee, die zich, van af Durgerdam ter lengte van &frac34; uur, O. t. N. in zee uitstrekt.
 
 <p>Overigens heeft men op Marken ééne zeilmakerij, ééne tanerij, twee timmerlieden, die tevens metselaars en hoepelmakers zijn, drie broodbakkerijen en acht kruidenierswinkels,&mdash;terwijl er zeven veehouders zijn. Sedert eenigen tijd, heeft men zich op eene meer uitgebreide schapenfokkerij toegelegd.<note n=1>Gelijk overal, zijn ook op Marken, de opbrengsten der landerijen zeer toegenomen.</note>
 
